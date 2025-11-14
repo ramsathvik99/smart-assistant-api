@@ -7,7 +7,7 @@ requests
 deep-translator
 PyDictionary
 feedparser
-youtubesearchpython
+
 numpy
 psutil
 pillow
@@ -23,3 +23,4 @@ pvrecorder
 psycopg2-binary
 pystray
 pywin32
+
